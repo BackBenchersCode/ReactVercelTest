@@ -10,7 +10,7 @@ const aboutData = [
     slug: 'about-developer',
     title: 'About the developer',
     description:
-      'Ibas Majid founded ibaslogic.com to experiment with new web features and write actionable guides. Follow Ibas on Twitter @ibaslogic to learn modern web development.',
+      'I have 10+ years of experience in application development, hands-on experience in Javascript, .NET and Sitecore applications.',
   },
 ];
 const SinglePage = () => {
